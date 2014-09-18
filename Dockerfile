@@ -1,3 +1,4 @@
+## PEACE
 FROM ubuntu:12.04
 MAINTAINER Docker Education Team <education@docker.com>
 RUN apt-get update
